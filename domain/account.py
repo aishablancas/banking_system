@@ -19,4 +19,4 @@ class Account:
         self.transactions.append(f"Withdrew {amount}")
 
     def get_balance(self) -> float:
-        return self.balanc
+        return self.balance
